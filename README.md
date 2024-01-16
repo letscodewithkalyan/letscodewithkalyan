@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**letscodewithkalyan/letscodewithkalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mobile app developer having strong knowledge on Native Android and iOS, Cross platform app development using Xamarin/Maui, React Native and Flutter. 
+Proficient in Programming Languages C#, Java, Kotlin, Java, Swift, JavaScript, TypeScript and Dart.
+Good knowledge on DI frameworks  TinyiOC, AutoFac, Dagger, Hilt
+Good knowledge on Mobile app devlopment architecture MVVM, MVC, MVP and MVU Frameworks
 
 Here are some ideas to get you started:
 
