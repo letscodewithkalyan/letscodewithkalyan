@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 <a href="https://www.java.com" target="blank"> <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></a>
 <br>
 <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="blank"><img align="center" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkUBjwsGspkG0iOKtwTmNLmQe9241ut1aCA&usqp=CAU" alt="Xamarin/Maui"></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+<br>
+<a href="https://reactnative.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJFy6SCm6242l-kJgq1hiLHDavJ3Hc6Xglg&usqp=CAU" alt="ReactNative" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://react-redux.js.org/" <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvqeglpGnyLWtDigjFgLc8AX32EHysaw3Qew&usqp=CAU" alt="javascript" width="40" height="40"/> </a>
