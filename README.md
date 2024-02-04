@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/kalyanpidugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheezycode" height="30" width="40" />
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://developer.android.com" target="blank"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/> </a>
